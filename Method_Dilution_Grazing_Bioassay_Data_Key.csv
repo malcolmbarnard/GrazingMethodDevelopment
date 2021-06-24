@@ -1,0 +1,62 @@
+Key,Units,Description
+FracUnfilteredWater,Unitless ,Fraction of Unfiltered Water (site water divided by total volume) 
+PS - 0.2,1/d,Production rate for the Pamlico Sound 0.2 µm Prefiltered Water grazing experiment
+PS - GFF,1/d,Production rate for the Pamlico Sound GFF Prefiltered Water grazing experiment
+PS - MIS,1/d,Production rate for the Pamlico Sound MIS grazing experiment
+NRE - 0.2,1/d,Production rate for the Neuse River Estuary 0.2 µm Prefiltered Water grazing experiment
+NRE - GFF,1/d,Production rate for the Neuse River Estuary GFF Prefiltered Water grazing experiment
+NRE - MIS,1/d,Production rate for the Neuse River Estuary MIS grazing experiment
+AS - 0.2,1/d,Production rate for the Atlantic Shelf 0.2 µm Prefiltered Water grazing experiment
+AS - GFF,1/d,Production rate for the Atlantic Shelf GFF Prefiltered Water grazing experiment
+AS - MIS,1/d,Production rate for the Atlantic Shelf MIS grazing experiment
+JL - 0.2,1/d,Production rate for the Jordan Lake 0.2 µm Prefiltered Water grazing experiment
+JL - GFF,1/d,Production rate for the Jordan Lake GFF Prefiltered Water grazing experiment
+JL - MIS,1/d,Production rate for the Jordan Lake MIS grazing experiment
+CR - 0.2,1/d,Production rate for the Chowan River 0.2 µm Prefiltered Water grazing experiment
+CR - GFF,1/d,Production rate for the Chowan River GFF Prefiltered Water grazing experiment
+CR - MIS,1/d,Production rate for the Chowan River MIS grazing experiment
+PS - 0.2E,1/d,Standard error in p rate for the Pamlico Sound 0.2 µm Prefiltered Water grazing experiment
+PS - GFFE,1/d,Standard error in p rate for the Pamlico Sound GFF Prefiltered Water grazing experiment
+PS - MISE,1/d,Standard error in p rate for the Pamlico Sound MIS grazing experiment
+NRE - 0.2E,1/d,Standard error in p rate for the Neuse River Estuary 0.2 µm Prefiltered Water grazing experiment
+NRE - GFFE,1/d,Standard error in p rate for the Neuse River Estuary GFF Prefiltered Water grazing experiment
+NRE - MISE,1/d,Standard error in p rate for the Neuse River Estuary MIS grazing experiment
+AS - 0.2E,1/d,Standard error in p rate for the Atlantic Shelf 0.2 µm Prefiltered Water grazing experiment
+AS - GFFE,1/d,Standard error in p rate for the Atlantic Shelf GFF Prefiltered Water grazing experiment
+AS - MISE,1/d,Standard error in p rate for the Atlantic Shelf MIS grazing experiment
+JL - 0.2E,1/d,Standard error in p rate for the Jordan Lake 0.2 µm Prefiltered Water grazing experiment
+JL - GFFE,1/d,Standard error in p rate for the Jordan Lake GFF Prefiltered Water grazing experiment
+JL - MISE,1/d,Standard error in p rate for the Jordan Lake MIS grazing experiment
+CR - 0.2E,1/d,Standard error in p rate for the Chowan River 0.2 µm Prefiltered Water grazing experiment
+CR - GFFE,1/d,Standard error in p rate for the Chowan River GFF Prefiltered Water grazing experiment
+CR - MISE,1/d,Standard error in p rate for the Chowan River MIS grazing experiment
+PS-bact - 0.2,cells/mL,Bacterial concentration for the Pamlico Sound 0.2 µm Prefiltered Water grazing experiment
+PS-bact - 0.2SE,cells/mL,Standard error in bacterial concentration for the Pamlico Sound 0.2 µm Prefiltered Water grazing experiment
+PS-bact - GFF,cells/mL,Bacterial concentration for the Pamlico Sound GFF Prefiltered Water grazing experiment
+PS-bact - GFFSE,cells/mL,Standard error in bacterial concentration for the Pamlico Sound GFF Prefiltered Water grazing experiment
+PS-bact - MIS,cells/mL,Bacterial concentration for the Pamlico Sound MIS grazing experiment
+PS-bact - MISSE,cells/mL,Standard error in bacterial concentration for the Pamlico Sound MIS grazing experiment
+NRE-bact - 0.2,cells/mL,Bacterial concentration for the Neuse River Estuary 0.2 µm Prefiltered Water grazing experiment
+NRE-bact - 0.2SE,cells/mL,Standard error in bacterial concentration for the Neuse River Estuary 0.2 µm Prefiltered Water grazing experiment
+NRE-bact - GFF,cells/mL,Bacterial concentration for the Neuse River Estuary GFF Prefiltered Water grazing experiment
+NRE-bact - GFFSE,cells/mL,Standard error in bacterial concentration for the Neuse River Estuary GFF Prefiltered Water grazing experiment
+NRE-bact - MIS,cells/mL,Bacterial concentration for the Neuse River Estuary MIS grazing experiment
+NRE-bact - MISSE,cells/mL,Standard error in bacterial concentration for the Neuse River Estuary MIS grazing experiment
+AS-bact - 0.2,cells/mL,Bacterial concentration for the Atlantic Shelf 0.2 µm Prefiltered Water grazing experiment
+AS-bact - 0.2SE,cells/mL,Standard error in bacterial concentration for the Atlantic Shelf 0.2 µm Prefiltered Water grazing experiment
+AS-bact - GFF,cells/mL,Bacterial concentration for the Atlantic Shelf GFF Prefiltered Water grazing experiment
+AS-bact - GFFSE,cells/mL,Standard error in bacterial concentration for the Atlantic Shelf GFF Prefiltered Water grazing experiment
+AS-bact - MIS,cells/mL,Bacterial concentration for the Atlantic Shelf MIS grazing experiment
+AS-bact - MISSE,cells/mL,Standard error in bacterial concentration for the Atlantic Shelf MIS grazing experiment
+JL-bact - 0.2,cells/mL,Bacterial concentration for the Jordan Lake 0.2 µm Prefiltered Water grazing experiment
+JL-bact - 0.2SE,cells/mL,Standard error in bacterial concentration for the Jordan Lake 0.2 µm Prefiltered Water grazing experiment
+JL-bact - GFF,cells/mL,Bacterial concentration for the Jordan Lake GFF Prefiltered Water grazing experiment
+JL-bact - GFFSE,cells/mL,Standard error in bacterial concentration for the Jordan Lake GFF Prefiltered Water grazing experiment
+JL-bact - MIS,cells/mL,Bacterial concentration for the Jordan Lake MIS grazing experiment
+JL-bact - MISSE,cells/mL,Standard error in bacterial concentration for the Jordan Lake MIS grazing experiment
+CR-bact - 0.2,cells/mL,Bacterial concentration for the Chowan River 0.2 µm Prefiltered Water grazing experiment
+CR-bact - 0.2SE,cells/mL,Standard error in bacterial concentration for the Chowan River 0.2 µm Prefiltered Water grazing experiment
+CR-bact - GFF,cells/mL,Bacterial concentration for the Chowan River GFF Prefiltered Water grazing experiment
+CR-bact - GFFSE,cells/mL,Standard error in bacterial concentration for the Chowan River GFF Prefiltered Water grazing experiment
+CR-bact - MIS,cells/mL,Bacterial concentration for the Chowan River MIS grazing experiment
+CR-bact - MISSE,cells/mL,Standard error in bacterial concentration for the Chowan River MIS grazing experiment

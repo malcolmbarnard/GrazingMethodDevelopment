@@ -1,0 +1,82 @@
+Key,Units,Description
+FracUnfilteredWater,Unitless ,Fraction of Unfiltered Water (site water divided by total volume) 
+PS-GFF,1/d,Production rate for the Pamlico Sound GFF Prefiltered Water grazing experiment
+PS-GFFVit,1/d,Production rate for the Pamlico Sound GFF Prefiltered Water grazing experiment with vitamin addition
+PS-MIS,1/d,Production rate for the Pamlico Sound MIS grazing experiment
+PS-MISVit,1/d,Production rate for the Pamlico Sound MIS grazing experiment with vitamin addition
+NRE-GFF,1/d,Production rate for the Neuse River Estuary GFF Prefiltered Water grazing experiment
+NRE-GFFVit,1/d,Production rate for the Neuse River Estuary GFF Prefiltered Water grazing experiment with vitamin addition
+NRE-MIS,1/d,Production rate for the Neuse River Estuary MIS grazing experiment
+NRE-MISVit,1/d,Production rate for the Neuse River Estuary MIS grazing experiment with vitamin addition
+JL-GFF,1/d,Production rate for the Jordan Lake GFF Prefiltered Water grazing experiment
+JL-GFFVit,1/d,Production rate for the Jordan Lake GFF Prefiltered Water grazing experiment with vitamin addition
+JL-MIS,1/d,Production rate for the Jordan Lake MIS grazing experiment
+JL-MISVit,1/d,Production rate for the Jordan Lake MIS grazing experiment with vitamin addition
+AS-GFF,1/d,Production rate for the Atlantic Shelf GFF Prefiltered Water grazing experiment
+AS-GFFVit,1/d,Production rate for the Atlantic Shelf GFF Prefiltered Water grazing experiment with vitamin addition
+AS-MIS,1/d,Production rate for the Atlantic Shelf MIS grazing experiment
+AS-MISVit,1/d,Production rate for the Atlantic Shelf MIS grazing experiment with vitamin addition
+CR-GFF,1/d,Production rate for the Chowan River GFF Prefiltered Water grazing experiment
+CR-GFFVit,1/d,Production rate for the Chowan River GFF Prefiltered Water grazing experiment with vitamin addition
+CR-MIS,1/d,Production rate for the Chowan River MIS grazing experiment
+CR-MISVit,1/d,Production rate for the Chowan River MIS grazing experiment with vitamin addition
+PS-GFFE,1/d,Standard error in production rate for the Pamlico Sound GFF Prefiltered Water grazing experiment
+PS-GFFVitE,1/d,Standard error in production rate for the Pamlico Sound GFF Prefiltered Water grazing experiment with vitamin addition
+PS-MISE,1/d,Standard error in production rate for the Pamlico Sound MIS grazing experiment
+PS-MISVitE,1/d,Standard error in production rate for the Pamlico Sound MIS grazing experiment with vitamin addition
+NRE-GFFE,1/d,Standard error in production rate for the Neuse River Estuary GFF Prefiltered Water grazing experiment
+NRE-GFFVitE,1/d,Standard error in production rate for the Neuse River Estuary GFF Prefiltered Water grazing experiment with vitamin addition
+NRE-MISE,1/d,Standard error in production rate for the Neuse River Estuary MIS grazing experiment
+NRE-MISVitE,1/d,Standard error in production rate for the Neuse River Estuary MIS grazing experiment with vitamin addition
+JL-GFFE,1/d,Standard error in production rate for the Jordan Lake GFF Prefiltered Water grazing experiment
+JL-GFFVitE,1/d,Standard error in production rate for the Jordan Lake GFF Prefiltered Water grazing experiment with vitamin addition
+JL-MISE,1/d,Standard error in production rate for the Jordan Lake MIS grazing experiment
+JL-MISVitE,1/d,Standard error in production rate for the Jordan Lake MIS grazing experiment with vitamin addition
+AS-GFFE,1/d,Standard error in production rate for the Atlantic Shelf GFF Prefiltered Water grazing experiment
+AS-GFFVitE,1/d,Standard error in production rate for the Atlantic Shelf GFF Prefiltered Water grazing experiment with vitamin addition
+AS-MISE,1/d,Standard error in production rate for the Atlantic Shelf MIS grazing experiment
+AS-MISVitE,1/d,Standard error in production rate for the Atlantic Shelf MIS grazing experiment with vitamin addition
+CR-GFFE,1/d,Standard error in production rate for the Chowan River GFF Prefiltered Water grazing experiment
+CR-GFFVitE,1/d,Standard error in production rate for the Chowan River GFF Prefiltered Water grazing experiment with vitamin addition
+CR-MISE,1/d,Standard error in production rate for the Chowan River MIS grazing experiment
+CR-MISVitE,1/d,Standard error in production rate for the Chowan River MIS grazing experiment with vitamin addition
+PS-bact -GFF,1/d,Bacterial production rate for the Pamlico Sound GFF Prefiltered Water grazing experiment
+PS-bact -GFFE,1/d,Standard error in bacterial production rate for the Pamlico Sound GFF Prefiltered Water grazing experiment
+PS-bact -GFFVit,1/d,Bacterial production rate for the Pamlico Sound GFF Prefiltered Water grazing experiment with vitamin addition
+PS-bact -GFFVitE,1/d,Standard error in bacterial production rate for the Pamlico Sound GFF Prefiltered Water grazing experiment with vitamin addition
+PS-bact -MIS,1/d,Bacterial production rate for the Pamlico Sound MIS grazing experiment
+PS-bact -MISE,1/d,Standard error in bacterial production rate for the Pamlico Sound MIS grazing experiment
+PS-bact -MISVit,1/d,Bacterial production rate for the Pamlico Sound MIS grazing experiment with vitamin addition
+PS-bact -MISVitE,1/d,Standard error in bacterial production rate for the Pamlico Sound MIS grazing experiment with vitamin addition
+NRE-bact -GFF,1/d,Bacterial production rate for the Neuse River Estuary GFF Prefiltered Water grazing experiment
+NRE-bact -GFFE,1/d,Standard error in bacterial production rate for the Neuse River Estuary GFF Prefiltered Water grazing experiment
+NRE-bact -GFFVit,1/d,Bacterial production rate for the Neuse River Estuary GFF Prefiltered Water grazing experiment with vitamin addition
+NRE-bact -GFFVitE,1/d,Standard error in bacterial production rate for the Neuse River Estuary GFF Prefiltered Water grazing experiment with vitamin addition
+NRE-bact -MIS,1/d,Bacterial production rate for the Neuse River Estuary MIS grazing experiment
+NRE-bact -MISE,1/d,Standard error in bacterial production rate for the Neuse River Estuary MIS grazing experiment
+NRE-bact -MISVit,1/d,Bacterial production rate for the Neuse River Estuary MIS grazing experiment with vitamin addition
+NRE-bact -MISVitE,1/d,Standard error in bacterial production rate for the Neuse River Estuary MIS grazing experiment with vitamin addition
+AS-bact -GFF,1/d,Bacterial production rate for the Atlantic Shelf GFF Prefiltered Water grazing experiment
+AS-bact -GFFE,1/d,Standard error in bacterial production rate for the Atlantic Shelf GFF Prefiltered Water grazing experiment
+AS-bact -GFFVit,1/d,Bacterial production rate for the Atlantic Shelf GFF Prefiltered Water grazing experiment with vitamin addition
+AS-bact -GFFVitE,1/d,Standard error in bacterial production rate for the Atlantic Shelf GFF Prefiltered Water grazing experiment with vitamin addition
+AS-bact -MIS,1/d,Bacterial production rate for the Atlantic Shelf MIS grazing experiment
+AS-bact -MISE,1/d,Standard error in bacterial production rate for the Atlantic Shelf MIS grazing experiment
+AS-bact -MISVit,1/d,Bacterial production rate for the Atlantic Shelf MIS grazing experiment with vitamin addition
+AS-bact -MISVitE,1/d,Standard error in bacterial production rate for the Atlantic Shelf MIS grazing experiment with vitamin addition
+CR-bact -GFF,1/d,Bacterial production rate for the Chowan River GFF Prefiltered Water grazing experiment
+CR-bact -GFFE,1/d,Standard error in bacterial production rate for the Chowan River GFF Prefiltered Water grazing experiment
+CR-bact -GFFVit,1/d,Bacterial production rate for the Chowan River GFF Prefiltered Water grazing experiment with vitamin addition
+CR-bact -GFFVitE,1/d,Standard error in bacterial production rate for the Chowan River GFF Prefiltered Water grazing experiment with vitamin addition
+CR-bact -MIS,1/d,Bacterial production rate for the Chowan River MIS grazing experiment
+CR-bact -MISE,1/d,Standard error in bacterial production rate for the Chowan River MIS grazing experiment
+CR-bact -MISVit,1/d,Bacterial production rate for the Chowan River MIS grazing experiment with vitamin addition
+CR-bact -MISVitE,1/d,Standard error in bacterial production rate for the Chowan River MIS grazing experiment with vitamin addition
+JL-bact -GFF,1/d,Bacterial production rate for the Jordan Lake GFF Prefiltered Water grazing experiment
+JL-bact -GFFE,1/d,Standard error in bacterial production rate for the Jordan Lake GFF Prefiltered Water grazing experiment
+JL-bact -GFFVit,1/d,Bacterial production rate for the Jordan Lake GFF Prefiltered Water grazing experiment with vitamin addition
+JL-bact -GFFVitE,1/d,Standard error in bacterial production rate for the Jordan Lake GFF Prefiltered Water grazing experiment with vitamin addition
+JL-bact -MIS,1/d,Bacterial production rate for the Jordan Lake MIS grazing experiment
+JL-bact -MISE,1/d,Standard error in bacterial production rate for the Jordan Lake MIS grazing experiment
+JL-bact -MISVit,1/d,Bacterial production rate for the Jordan Lake MIS grazing experiment with vitamin addition
+JL-bact -MISVitE,1/d,Standard error in bacterial production rate for the Jordan Lake MIS grazing experiment with vitamin addition
