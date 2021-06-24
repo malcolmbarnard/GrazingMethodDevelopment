@@ -1,3 +1,3 @@
-This repository has the code and data from Malcolm Barnard's grazing work.
+This repository has the code and data from Malcolm Barnard's grazing work for his thesis.
 
-For the MA_Barnard_MSc_Thesis branch, this is the data and code for Malcolm Barnard's Masters Thesis.
+[![DOI](https://zenodo.org/badge/375463252.svg)](https://zenodo.org/badge/latestdoi/375463252)
