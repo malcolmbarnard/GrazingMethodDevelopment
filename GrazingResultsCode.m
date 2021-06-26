@@ -1,8 +1,8 @@
-%Cite this code as Barnard, M.A. 2021 ìGitHub: malcolmbarnard/GrazingMethodDevelopmentî https://www.doi.org/10.5281/zenodo.5026535. 
+%Cite this code as Barnard, M.A. 2021 ‚ÄúGitHub: malcolmbarnard/GrazingMethodDevelopment‚Äù https://www.doi.org/10.5281/zenodo.5026535. 
 
 %%Import Data from Grazing_Results.csv
 
-z = 2;
+z = 1;
 % Execubtable demands
 %% z = 1, Grazing Rates
 %% z = 2, Growth Rates in the absence of grazers
@@ -72,7 +72,7 @@ elseif z==2
     hold on
     plot(xs,ys,'-r')
     set(gca,'xlim',[-1 10],'ylim',[-1 12]);
-    title('Parity Plot of µ_0 Growth Rates of MIS Compared to Prefiltered Water Calculated Using the Linear Model')
+    title('Parity Plot of ¬µ_0 Growth Rates of MIS Compared to Prefiltered Water Calculated Using the Linear Model')
     ylabel('MIS Grazing Rates')
     xlabel('Prefiltered Water Grazing Rates')
     hold off    
@@ -86,7 +86,7 @@ elseif z==2
     hold on
     plot(xs,ys,'-r')
     set(gca,'xlim',[-1 10],'ylim',[-1 12]);
-    title('Parity Plot of µ_0 Growth Rates of MIS Compared to Prefiltered Water Calculated Using the Holling II Model')
+    title('Parity Plot of ¬µ_0 Growth Rates of MIS Compared to Prefiltered Water Calculated Using the Holling II Model')
     ylabel('MIS Grazing Rates')
     xlabel('Prefiltered Water Grazing Rates')
     hold off    
