@@ -1,0 +1,27 @@
+Key,Units,Description
+Experiment,n/a,"Indicating which experiment the data are from, AS is Atlantic Shelf, PS_ is Pamlico Sound, NRE_ is Neuse River Estuary, CR_ is Chowan River, JL_ is Jordan Lake, M is for method experiments, nV is for vitamin experiments but without vitamin additions, and V is for vitamin experiments with vitamin additions"
+l_0.2um_g,1/d,Grazing rate for the 0.2 µm prefiltered water experiments calculated using linear models
+l_GFF_g,1/d,Grazing rate for the GFF prefiltered water experiments calculated using linear models
+l_MIS_g,1/d,Grazing rate for the MIS experiments calculated using linear models
+l_0.2um_g_SD,1/d,Standard Deviation for the grazing rate for the 0.2 µm prefiltered water experiments calculated using linear models
+l_GFF_g_SD,1/d,Standard Deviation for the grazing rate for the GFF prefiltered water experiments calculated using linear models
+l_MIS_g_SD,1/d,Standard Deviation for the grazing rate for the MIS experiments calculated using linear models
+l_0.2um_u,1/d,Growth rate in the absence of grazers for the 0.2 µm prefiltered water experiments calculated using linear models
+l_GFF_u,1/d,Growth rate in the absence of grazers for the GFF prefiltered water experiments calculated using linear models
+l_MIS_u,1/d,Growth rate in the absence of grazers for the MIS experiments calculated using linear models
+l_0.2um_u_SD,1/d,Standard Deviation for the growth rate in the absence of grazers for the 0.2 µm prefiltered water experiments calculated using linear models
+l_GFF_u_SD,1/d,Standard Deviation for the growth rate in the absence of grazers for the GFF prefiltered water experiments calculated using linear models
+l_MIS_u_SD,1/d,Standard Deviation for the growth rate in the absence of grazers for the MIS experiments calculated using linear models
+n_0.2um_g,1/d,Grazing rate for the 0.2 µm prefiltered water experiments calculated using nonlinear Holling II models
+n_GFF_g,1/d,Grazing rate for the GFF prefiltered water experiments calculated using nonlinear Holling II models
+n_MIS_g,1/d,Grazing rate for the MIS experiments calculated using nonlinear Holling II models
+n_0.2um_g_SD,1/d,Standard Deviation for the grazing rate for the 0.2 µm prefiltered water experiments calculated using nonlinear Holling II models
+n_GFF_g_SD,1/d,Standard Deviation for the grazing rate for the GFF prefiltered water experiments calculated using nonlinear Holling II models
+n_MIS_g_SD,1/d,Standard Deviation for the grazing rate for the MIS experiments calculated using nonlinear Holling II models
+n_0.2um_u,1/d,Growth rate in the absence of grazers for the 0.2 µm prefiltered water experiments calculated using nonlinear Holling II models
+n_GFF_u,1/d,Growth rate in the absence of grazers for the GFF prefiltered water experiments calculated using nonlinear Holling II models
+n_MIS_u,1/d,Growth rate in the absence of grazers for the MIS experiments calculated using nonlinear Holling II models
+n_0.2um_u_SD,1/d,Standard Deviation for the growth rate in the absence of grazers for the 0.2 µm prefiltered water experiments calculated using nonlinear Holling II models
+n_GFF_u_SD,1/d,Standard Deviation for the growth rate in the absence of grazers for the GFF prefiltered water experiments calculated using nonlinear Holling II models
+n_MIS_u_SD,1/d,Standard Deviation for the growth rate in the absence of grazers for the MIS experiments calculated using nonlinear Holling II models
+NaN,n/a,No data due to not being measured
