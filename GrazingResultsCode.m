@@ -2,7 +2,9 @@
 
 %%Import Data from Grazing_Results.csv
 
-z = 2;
+z = 1;
+disp('z = ') 
+disp(z)
 % Execubtable demands
 %% z = 1, Grazing Rates
 %% z = 2, Growth Rates in the absence of grazers
