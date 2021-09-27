@@ -2,7 +2,7 @@
 
 %%Import Data from Grazing_Results.csv
 
-z = 1;
+z = 2;
 % Execubtable demands
 %% z = 1, Grazing Rates
 %% z = 2, Growth Rates in the absence of grazers
@@ -25,11 +25,11 @@ if z==1
     hold on
     errorbar(y1,x1,E2,E2,E1,E1,'ob')
     errorbar(y2,x1,E3,E3,E1,E1,'ok') 
-    xs=[-1:.0000001:12];
-    ys=[-1:.0000001:12];
+    xs=[-1:.0000001:5];
+    ys=[-1:.0000001:5];
     hold on
     plot(xs,ys,'-r')
-    set(gca,'xlim',[-1 10],'ylim',[-1 12]);
+    set(gca,'linewidth',3,'XColor','k', 'YColor','k','xlim',[-1 5],'ylim',[-1 5]);
     title('Parity Plot of Grazing Rates of MIS Compared to Prefiltered Water Calculated Using the Linear Model')
     ylabel('MIS Grazing Rates')
     xlabel('Prefiltered Water Grazing Rates')
@@ -39,11 +39,11 @@ if z==1
     hold on
     errorbar(y3,x2,E5,E5,E4,E4,'ob')
     errorbar(y4,x2,E6,E6,E4,E4,'ok') 
-    xs=[-1:.0000001:12];
-    ys=[-1:.0000001:12];
+    xs=[-1:.0000001:5];
+    ys=[-1:.0000001:5];
     hold on
     plot(xs,ys,'-r')
-    set(gca,'xlim',[-1 10],'ylim',[-1 12]);
+    set(gca,'linewidth',3,'XColor','k', 'YColor','k','xlim',[-1 5],'ylim',[-1 5]);
     title('Parity Plot of Grazing Rates of MIS Compared to Prefiltered Water Calculated Using the Holling II Model')
     ylabel('MIS Grazing Rates')
     xlabel('Prefiltered Water Grazing Rates')
@@ -67,11 +67,11 @@ elseif z==2
     hold on
     errorbar(y1,x1,E2,E2,E1,E1,'ob')
     errorbar(y2,x1,E3,E3,E1,E1,'ok') 
-    xs=[-1:.0000001:12];
-    ys=[-1:.0000001:12];
+    xs=[-1:.0000001:5];
+    ys=[-1:.0000001:5];
     hold on
     plot(xs,ys,'-r')
-    set(gca,'xlim',[-1 10],'ylim',[-1 12]);
+    set(gca,'linewidth',3,'XColor','k', 'YColor','k','xlim',[-1 5],'ylim',[-1 5]);
     title('Parity Plot of µ_0 Growth Rates of MIS Compared to Prefiltered Water Calculated Using the Linear Model')
     ylabel('MIS Grazing Rates')
     xlabel('Prefiltered Water Grazing Rates')
@@ -81,15 +81,26 @@ elseif z==2
     hold on
     errorbar(y3,x2,E5,E5,E4,E4,'ob')
     errorbar(y4,x2,E6,E6,E4,E4,'ok') 
-    xs=[-1:.0000001:12];
-    ys=[-1:.0000001:12];
+    xs=[-1:.0000001:5];
+    ys=[-1:.0000001:5];
     hold on
     plot(xs,ys,'-r')
-    set(gca,'xlim',[-1 10],'ylim',[-1 12]);
+    set(gca,'linewidth',3,'XColor','k', 'YColor','k','xlim',[-1 5],'ylim',[-1 5]);
     title('Parity Plot of µ_0 Growth Rates of MIS Compared to Prefiltered Water Calculated Using the Holling II Model')
     ylabel('MIS Grazing Rates')
     xlabel('Prefiltered Water Grazing Rates')
     hold off    
         
-    
+    else 
+
+    disp('************************************************************************');
+    disp('*                                                                      *');
+    disp('*                      Please input an integer                         *');
+    disp('*                between and including 1 through 2                     *');
+    disp('*                           (1 <= z <= 2)                              *');    
+    disp('*                       z = 1, Grazing Rates                           *');
+    disp('*                            z = 2, µ0                                 *');
+    disp('*                                                                      *');
+    disp('************************************************************************');
+
 end
